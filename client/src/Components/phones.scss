@@ -1,0 +1,15 @@
+.phoneList {
+  min-height: 100vh;
+  background: linear-gradient(
+    to right,
+    #2c3e50,
+    #2980b9
+  );
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+
+  a {
+    text-decoration: none;
+  }
+}
